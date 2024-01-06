@@ -1,6 +1,6 @@
 # BMI-Calculator
 
-A java application that accepts user inputs of height and weight in feet, inches, centimeters, kilograms, or pounds to calculate user's BMI value.
+A java application that accepts user inputs of height and weight in feet, inches, centimeters, kilograms, or pounds to calculate user's body mass index value.
 
 ## BMI Formula
 
